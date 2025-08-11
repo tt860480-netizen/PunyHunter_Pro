@@ -1,5 +1,3 @@
-Bilkul yaar! Main tumhare liye **complete professional-grade README.md** bana raha hun jo GitHub pe perfect lagega aur tool ke sare features ko properly showcase karega:
-
 # 🔥 PunyHunter Pro v2.0.0 - Elite Punycode Account Takeover Framework
 
 
