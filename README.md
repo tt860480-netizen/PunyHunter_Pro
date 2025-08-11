@@ -98,6 +98,9 @@ Punycode attacks exploit character parsing inconsistencies where:
 git clone https://github.com/tt860480-netizen/Elite_Punycode_Attack_Tool.git
 cd Elite_Punycode_Attack_Tool
 
+# Create Folder
+mkdir -p {results,wordlists,logs}  
+
 # Create virtual environment
 python3 -m venv venv
 source venv/bin/activate  # Linux/macOS
